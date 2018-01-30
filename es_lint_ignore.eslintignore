@@ -1,0 +1,17 @@
+node_modules/**
+**/node_modules/**
+packages/ui/**/lib/
+assets/**
+build/**
+.tmp/**
+mocks/**
+docs/**
+**/trackers/**
+**/libs/**
+**/compiled/**
+**/plugins/**
+*.json
+*.md
+*.less
+*.svg
+git
